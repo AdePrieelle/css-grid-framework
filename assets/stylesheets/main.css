@@ -4,6 +4,33 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
+.pos-static {
+  position: static; }
+
+.pos-relative {
+  position: relative; }
+
+.pos-absolute {
+  position: absolute; }
+
+.pos-sticky {
+  position: sticky; }
+
+.pos-fixed {
+  position: fixed; }
+
+.top-0 {
+  top: 0; }
+
+.right-0 {
+  right: 0; }
+
+.bottom-0 {
+  bottom: 0; }
+
+.left-0 {
+  left: 0; }
+
 .dp-block {
   display: block; }
 
