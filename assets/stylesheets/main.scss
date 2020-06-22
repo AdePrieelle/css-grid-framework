@@ -6,6 +6,7 @@ html {
   box-sizing: inherit;
 }
 
+@import 'partials/reset';
 @import 'partials/position';
 @import 'partials/display';
 @import 'partials/flex';
