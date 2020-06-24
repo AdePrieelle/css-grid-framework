@@ -3,10 +3,11 @@ Error: Undefined variable: "$primary-color".
         on line 66 of partials/_typography.scss
         from line 15 of main.scss
 
-61: 		
-62: 		opacity: 1;
-63: 
-64: *\/
+61: 		*Misc*
+62: 		
+63: 		opacity: 1;
+64: 
+65: *\/
 
 Backtrace:
 partials/_typography.scss:66
@@ -77,4 +78,4 @@ main.scss:15
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$primary-color\".\A         on line 66 of partials/_typography.scss\A         from line 15 of main.scss\A \A 61: 		\A 62: 		opacity: 1;\A 63: \A 64: */"; }
+  content: "Error: Undefined variable: \"$primary-color\".\A         on line 66 of partials/_typography.scss\A         from line 15 of main.scss\A \A 61: 		*Misc*\A 62: 		\A 63: 		opacity: 1;\A 64: \A 65: */"; }
